@@ -1,5 +1,5 @@
 # ImageRecognitorMLApp
-this iOs app uses SwiftUI, machine learning (MobileNetV2)  which let the user use camera and access 
+This iOs app uses SwiftUI, machine learning (MobileNetV2)  which let the user use camera and access 
 library to get as result the subject of the image.
 
 Useful links:
