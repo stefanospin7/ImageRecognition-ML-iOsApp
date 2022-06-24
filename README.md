@@ -5,6 +5,8 @@ library to get as result the subject of the image.
 Useful links:
 
 Apple developer machine learning models:
+
+
 https://developer.apple.com/machine-learning/models/
 
 Cornell University project:
