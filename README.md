@@ -4,14 +4,14 @@ This is an iOs app (SwiftUI, machine learning *MobileNetV2*)  which let the user
 library to get as result the subject of the image.
 
 ***
-Useful links:
+## Useful links:
 ***
 Apple developer machine learning models:
 
 
 https://developer.apple.com/machine-learning/models/
 
-Cornell University project:
+## Cornell University project:
 
 https://arxiv.org/abs/1801.04381
 
